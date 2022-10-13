@@ -1,2 +1,2 @@
-# Calculadora_JS
-Calculadora feita em JS
+# Calculadora
+ Calculadora em VanillaJS<br>
